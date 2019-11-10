@@ -90,6 +90,8 @@ def scrape():
     mars_collection["valles_marineris_img"] = img_hemi4
     mars_collection["valles_marineris_title"] = hemi4_title.text.strip()   
     
+
+    
     mars_collection
     return mars_collection
 
